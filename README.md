@@ -1,9 +1,9 @@
 ### Salut👋
-<a href="http://geekeurexe.com">**Moi c'est Geekeurexe**</a>
+<a href="http://geekeurexe.com">**Moi être Geekeurexe**</a>
 
 ---
 
-<h3 align="center">Je suis un développeur débutant Français 🐔 !</h3>
+<h3 align="center">Français 🐔 !</h3>
 
 ### 🔧 Langages et Outils :
 
