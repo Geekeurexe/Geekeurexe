@@ -1,4 +1,4 @@
-### Salut, tous le monde👋
+### Salut👋
 <a href="http://geekeurexe.com">**Moi c'est Geekeurexe**</a>
 
 ---
